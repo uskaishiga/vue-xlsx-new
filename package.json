@@ -47,7 +47,7 @@
     "vue-server-renderer": "2.6.10",
     "vue-template-compiler": "^2.6.10",
     "vuepress": "^0.14.11",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.18.12"
   },
   "resolutions": {
     "webpack-dev-middleware": "3.6.0"
